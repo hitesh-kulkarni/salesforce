@@ -1,0 +1,37 @@
+body {
+	padding: 10px;
+	font-family: Arial;
+	font-size: 15px;
+}
+
+.left {
+    float: left;
+    margin-right: 10px;
+}
+
+.tweet_heading {
+    margin: 0 0 5px;
+}
+
+.profile_pic {
+	width: 64px; 
+	height: 64px;
+}
+
+.tweet, .tweet_content {
+	overflow: hidden;
+	margin-bottom: 15px;
+}
+
+.retweet {
+	border-radius: 7px;
+	padding-left: 7px;
+	padding-right: 7px;
+	font-size: 14px;
+	background-color: #0084b4;
+	color: white;
+}
+
+.search_tweets {
+	margin-bottom: 25px;
+}
